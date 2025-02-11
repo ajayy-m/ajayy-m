@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/02900b4c-32ae-4d92-ae4a-9c3486f53139)<p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=500&height=100&lines=Hi+%2C+I'm+Ajay+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
