@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/02900b4c-32ae-4d92-ae4a-9c3486f53139)<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=500&height=100&lines=Hi+%2C+I'm+Ajay+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
@@ -23,7 +23,10 @@ About Me
 
 - **Programming Languages**:
 
-  <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" alt="Python" />
+  <img src="https://github.com/user-attachments/assets/68a9011b-fee1-4be3-9808-43ab6358a5f1" width="40" height="40" alt="Python" />
+  <img src="https://github.com/user-attachments/assets/5c07c49f-56e3-453d-b054-99e20148336a" width="40" height="40" alt="C" />
+  <img src="https://github.com/user-attachments/assets/97b6b7ef-a693-40ae-85c6-9996f726e660" width="40" height="40" alt="C++" />
+  <img src="https://github.com/user-attachments/assets/2fae27e0-f702-46f8-bfd1-acf363166276" width="40" height="40" alt="R-Studio" />
 
 - **Web Development**:
 
@@ -32,14 +35,14 @@ About Me
 
 - **Data Science & Machine Learning**:
 
-  <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="TensorFlow" />
-  <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="PyTorch" />
-  <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Pandas" />
-  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Scikit-Learn" />
+  <img src="https://github.com/user-attachments/assets/223b99f2-c6c3-4fbb-a2dd-ed4fe3d90e31" width="40" height="40" alt="TensorFlow" />
+  <img src="https://github.com/user-attachments/assets/e8592cca-4267-4107-8980-a96be2d7ccfd" width="40" height="40" alt="PyTorch" />
+  <img src="https://github.com/user-attachments/assets/127dcb84-b26b-4bb3-a9b8-04191807de86" width="40" height="40" alt="Pandas" />
+  <img src="https://github.com/user-attachments/assets/5507211c-a5ab-4495-82f3-8103d4ba99f9" width="40" height="40" alt="Streamlit" />
 
 - **Tools**:
 
-  <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Jupyter" />
+  <img src="https://github.com/user-attachments/assets/e6451820-4b93-4b13-95b1-a2fca1484d61" width="40" height="40" alt="Jupyter" />
   <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="VS Code" />
 
 <br>
@@ -57,8 +60,8 @@ About Me
 
 -----
 
-<h3 align="center">Connect with me 🤝</h3>
+<h3 align="center">Connect with me! </h3>
 
 <p align="center">
-  <!-- Add your contact information here -->
+  <!-- ajayyym2025@gmail.com -->
 </p>
