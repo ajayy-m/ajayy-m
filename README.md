@@ -4,22 +4,16 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ajay&color=brightgreen" alt="Profile views" />
 </p>
 
-## <picture>
-  <img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width="40px">
-</picture> **About Me**
-
-<picture>
-  <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400px">
-</picture>
+About Me
 
 - 🔭 I’m currently working on innovative AI and web development projects.
-- ➡️ Artificial Intelligence, Data Science, and Machine Learning, Web Development
+- ➡️ Artificial Intelligence, Machine Learning, Web Development
 - 👯 I’m looking to collaborate on impactful open-source projects.
-- ⚡ Fun fact: Ka-Boom.
+- ⚡ Joke of the Day : Why did the functions stop calling each other? Because they had constant arguments.
 
 <br>
 
@@ -56,9 +50,8 @@
 
 <div align="center">
 
-  ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-  ![Ajay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajay&theme=dracula&hide_border=false)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayy-m&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayy-m&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
