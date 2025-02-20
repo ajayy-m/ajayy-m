@@ -13,7 +13,6 @@ About Me
 - 🔭 I’m currently working on innovative AI and web development projects.
 - ➡️ Artificial Intelligence, Machine Learning, Web Development
 - 👯 I’m looking to collaborate on impactful open-source projects.
-- ⚡ Joke of the Day : Why did the functions stop calling each other? Because they had constant arguments.
 
 <br>
 
