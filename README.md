@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajay&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ajayy-m&color=brightgreen" alt="Profile views" />
 </p>
 
 About Me
