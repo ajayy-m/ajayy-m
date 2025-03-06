@@ -10,8 +10,8 @@
 
 About Me
 
-- 🔭 I’m a CSE Major Specialization w/ Artificial Intelligence and Data Science 
-- ➡️ i'm passionate in the field involving the work of AI Artificial Intelligence. Core Concepts : Machine Learning, Web Development, Data Science.
+- 🔭 I’m a CSE Major Specialization w/ Artificial Intelligence and Data Science - Crescent Institute of Science and Technology. 
+- ➡️ i'm passionate in the field involving the work of AI . Core Concepts : Artificial Intelligence, Machine Learning, Web Development, Data Science.
 - 👯 I’m looking to collaborate on impactful open-source projects.
 
 <br>
