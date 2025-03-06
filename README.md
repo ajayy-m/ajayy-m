@@ -10,8 +10,8 @@
 
 About Me
 
-- 🔭 I’m currently working on innovative AI and web development projects.
-- ➡️ Artificial Intelligence, Machine Learning, Web Development
+- 🔭 I’m 20 years old, and i'm passionate in the field involving the work of AI
+- ➡️ Artificial Intelligence, Machine Learning, Web Development, Data Science
 - 👯 I’m looking to collaborate on impactful open-source projects.
 
 <br>
