@@ -1,66 +1,18 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=500&height=100&lines=Hi+%2C+I'm+Ajay+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayy-m&color=brightgreen" alt="Profile views" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajayy-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajayyym2025@gmail.com) 
 
-About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ajayy-m&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ajayy-m&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayy-m&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m a CSE Major Specialization w/ Artificial Intelligence and Data Science - Crescent Institute of Science and Technology. 
-- ➡️ i'm passionate in the field involving the work of AI . Core Concepts : Artificial Intelligence, Machine Learning, Web Development, Data Science.
-- 👯 I’m looking to collaborate on impactful open-source projects.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ajayy-m&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=ajayy-m&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-
-<p align="center">
-
-- **Programming Languages**:
-
-  <img src="https://github.com/user-attachments/assets/68a9011b-fee1-4be3-9808-43ab6358a5f1" width="40" height="40" alt="Python" />
-  <img src="https://github.com/user-attachments/assets/5c07c49f-56e3-453d-b054-99e20148336a" width="40" height="40" alt="C" />
-  <img src="https://github.com/user-attachments/assets/97b6b7ef-a693-40ae-85c6-9996f726e660" width="40" height="40" alt="C++" />
-  <img src="https://github.com/user-attachments/assets/2fae27e0-f702-46f8-bfd1-acf363166276" width="40" height="40" alt="R-Studio" />
-
-- **Web Development**:
-
-  <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
-  <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
-
-- **Data Science & Machine Learning**:
-
-  <img src="https://github.com/user-attachments/assets/223b99f2-c6c3-4fbb-a2dd-ed4fe3d90e31" width="40" height="40" alt="TensorFlow" />
-  <img src="https://github.com/user-attachments/assets/e8592cca-4267-4107-8980-a96be2d7ccfd" width="40" height="40" alt="PyTorch" />
-  <img src="https://github.com/user-attachments/assets/127dcb84-b26b-4bb3-a9b8-04191807de86" width="40" height="40" alt="Pandas" />
-  <img src="https://github.com/user-attachments/assets/5507211c-a5ab-4495-82f3-8103d4ba99f9" width="40" height="40" alt="Streamlit" />
-
-- **Tools**:
-
-  <img src="https://github.com/user-attachments/assets/e6451820-4b93-4b13-95b1-a2fca1484d61" width="40" height="40" alt="Jupyter" />
-  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="VS Code" />
-
-<br>
-</p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
-
-<div align="center">
-
-  ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayy-m&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayy-m&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
------
-
-<h3 align="center">Connect with me! </h3>
-
-<p align="center">
-  <!-- ajayyym2025@gmail.com -->
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
